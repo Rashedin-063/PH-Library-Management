@@ -61,7 +61,7 @@ This is a simple library management system built with Node.js, Express, and Mong
 - `POST /api/loans/return` - Return a book
 - `GET /api/loans/my-loans` - Get user loans
 
-## Environment Variables
+### Environment Variables
 
 The following environment variables are required:
 
